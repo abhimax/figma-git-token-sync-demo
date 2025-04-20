@@ -3,7 +3,6 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "prefix": "sd",
       "buildPath": "build/css/",
       "files": [
         {
@@ -25,7 +24,10 @@
       "files": [
         {
           "destination": "style_dictionary_colors.xml",
-          "format": "android/colors"
+          "format": "android/colors",
+          "options": {
+            "outputReferences": true
+          }
         }
       ]
     }
