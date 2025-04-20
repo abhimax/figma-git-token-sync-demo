@@ -1,0 +1,29 @@
+{
+  "color": {
+    "brand": {
+      "watermelon": { "value": "#ff5733" },
+      "pear": { "value": "#D1E50E" }
+    },
+    "gray": {
+      "50": { "value": "#f5f5f5" },
+      "200": { "value": "#212121" },
+      "900": { "value": "#212121" },
+      "800": { "value": "#424242" },
+      "600": { "value": "#757575" },
+      "400": { "value": "#9e9e9e" }
+    }
+  },
+  "spacing": {
+    "half": { "value": "4px" },
+    "1": { "value": "8px" },
+    "3": { "value": "16px" },
+    "4": { "value": "32px" },
+    "13": { "value": "104px" },
+    "6": { "value": "48px" }
+  },
+  "radius": {
+    "md": { "value": "8px" },
+    "sm": { "value": "4px" },
+    "3xl": { "value": "24px" }
+  }
+}
