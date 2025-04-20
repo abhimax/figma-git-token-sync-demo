@@ -1,0 +1,482 @@
+{
+  "global": {},
+  "Primitives — Completed/Modern Theme": {
+    "color": {
+      "gray": {
+        "50": {
+          "value": "#f1f1f1",
+          "type": "color"
+        },
+        "200": {
+          "value": "#d3d3d3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#afafaf",
+          "type": "color"
+        },
+        "600": {
+          "value": "#7c7c7c",
+          "type": "color"
+        },
+        "800": {
+          "value": "#343434",
+          "type": "color"
+        },
+        "900": {
+          "value": "#202020",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "watermelon": {
+          "value": "{color.brand.pear}",
+          "type": "color",
+          "description": "test tiken change"
+        },
+        "cherry": {
+          "value": "#ff9eab",
+          "type": "color"
+        },
+        "pear": {
+          "value": "#def358",
+          "type": "color"
+        },
+        "mushroom": {
+          "value": "#f1d367",
+          "type": "color"
+        },
+        "radish": {
+          "value": "#ffcbb7",
+          "type": "color"
+        }
+      }
+    },
+    "radius": {
+      "sm": {
+        "value": 4,
+        "type": "number"
+      },
+      "md": {
+        "value": "8",
+        "type": "number",
+        "description": "test 123"
+      },
+      "lg": {
+        "value": 16,
+        "type": "number"
+      },
+      "xl": {
+        "value": 32,
+        "type": "number"
+      },
+      "2xl": {
+        "value": 128,
+        "type": "number"
+      },
+      "3xl": {
+        "value": 360,
+        "type": "number"
+      }
+    },
+    "spacing": {
+      "1": {
+        "value": 8,
+        "type": "number"
+      },
+      "2": {
+        "value": 16,
+        "type": "number"
+      },
+      "3": {
+        "value": 24,
+        "type": "number"
+      },
+      "4": {
+        "value": 32,
+        "type": "number"
+      },
+      "5": {
+        "value": 40,
+        "type": "number"
+      },
+      "6": {
+        "value": 48,
+        "type": "number"
+      },
+      "7": {
+        "value": 56,
+        "type": "number"
+      },
+      "8": {
+        "value": 64,
+        "type": "number"
+      },
+      "9": {
+        "value": 72,
+        "type": "number"
+      },
+      "10": {
+        "value": 80,
+        "type": "number"
+      },
+      "11": {
+        "value": 88,
+        "type": "number"
+      },
+      "12": {
+        "value": 96,
+        "type": "number"
+      },
+      "13": {
+        "value": 104,
+        "type": "number"
+      },
+      "half": {
+        "value": 4,
+        "type": "number"
+      }
+    }
+  },
+  "Primitives — Completed/Brutal Theme": {
+    "color": {
+      "gray": {
+        "50": {
+          "value": "#eedeff",
+          "type": "color"
+        },
+        "200": {
+          "value": "#cfa0ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#b874ff",
+          "type": "color"
+        },
+        "600": {
+          "value": "#bc7cff",
+          "type": "color"
+        },
+        "800": {
+          "value": "#a854ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#33057e",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "watermelon": {
+          "value": "#ffbe16",
+          "type": "color"
+        },
+        "cherry": {
+          "value": "#ffbe16",
+          "type": "color"
+        },
+        "pear": {
+          "value": "#ffbe16",
+          "type": "color"
+        },
+        "mushroom": {
+          "value": "#ffbe16",
+          "type": "color"
+        },
+        "radish": {
+          "value": "#ffbe16",
+          "type": "color"
+        }
+      }
+    },
+    "radius": {
+      "sm": {
+        "value": 0,
+        "type": "number"
+      },
+      "md": {
+        "value": 0,
+        "type": "number"
+      },
+      "lg": {
+        "value": 0,
+        "type": "number"
+      },
+      "xl": {
+        "value": 0,
+        "type": "number"
+      },
+      "2xl": {
+        "value": 0,
+        "type": "number"
+      },
+      "3xl": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "spacing": {
+      "1": {
+        "value": 8,
+        "type": "number"
+      },
+      "2": {
+        "value": 16,
+        "type": "number"
+      },
+      "3": {
+        "value": 24,
+        "type": "number"
+      },
+      "4": {
+        "value": 32,
+        "type": "number"
+      },
+      "5": {
+        "value": 40,
+        "type": "number"
+      },
+      "6": {
+        "value": 48,
+        "type": "number"
+      },
+      "7": {
+        "value": 56,
+        "type": "number"
+      },
+      "8": {
+        "value": 64,
+        "type": "number"
+      },
+      "9": {
+        "value": 72,
+        "type": "number"
+      },
+      "10": {
+        "value": 80,
+        "type": "number"
+      },
+      "11": {
+        "value": 88,
+        "type": "number"
+      },
+      "12": {
+        "value": 96,
+        "type": "number"
+      },
+      "13": {
+        "value": 104,
+        "type": "number"
+      },
+      "half": {
+        "value": 4,
+        "type": "number"
+      }
+    }
+  },
+  "Tokens — Completed/Light": {
+    "surface": {
+      "surface-primary": {
+        "value": "{color.gray.50}",
+        "type": "color"
+      },
+      "surface-invert": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "surface-brand": {
+        "value": "{color.brand.watermelon}",
+        "type": "color"
+      },
+      "surface-secondary": {
+        "value": "{color.gray.800}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "text-primary": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "text-brand": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "text-invert": {
+        "value": "{color.gray.50}",
+        "type": "color"
+      },
+      "text-secondary": {
+        "value": "{color.gray.600}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "border-primary": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      }
+    },
+    "spacing": {
+      "spacing-xs": {
+        "value": "{spacing.half}",
+        "type": "number"
+      },
+      "spacing-sm": {
+        "value": "{spacing.1}",
+        "type": "number"
+      },
+      "spacing-md": {
+        "value": "{spacing.3}",
+        "type": "number"
+      },
+      "spacing-lg": {
+        "value": "{spacing.4}",
+        "type": "number"
+      },
+      "spacing-2xl": {
+        "value": "{spacing.13}",
+        "type": "number"
+      },
+      "spacing-xl": {
+        "value": "{spacing.6}",
+        "type": "number"
+      },
+      "spacing-none": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "radius": {
+      "radius-rounded": {
+        "value": "{radius.md}",
+        "type": "number"
+      },
+      "radius-full": {
+        "value": "{radius.3xl}",
+        "type": "number"
+      },
+      "radius-minimal": {
+        "value": "{radius.sm}",
+        "type": "number"
+      }
+    }
+  },
+  "Tokens — Completed/Dark": {
+    "surface": {
+      "surface-primary": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "surface-invert": {
+        "value": "{color.gray.50}",
+        "type": "color"
+      },
+      "surface-brand": {
+        "value": "{color.brand.watermelon}",
+        "type": "color"
+      },
+      "surface-secondary": {
+        "value": "{color.gray.400}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "text-primary": {
+        "value": "{color.gray.50}",
+        "type": "color"
+      },
+      "text-brand": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "text-invert": {
+        "value": "{color.gray.900}",
+        "type": "color"
+      },
+      "text-secondary": {
+        "value": "{color.gray.200}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "border-primary": {
+        "value": "{color.gray.50}",
+        "type": "color"
+      }
+    },
+    "spacing": {
+      "spacing-xs": {
+        "value": "{spacing.half}",
+        "type": "number"
+      },
+      "spacing-sm": {
+        "value": "{spacing.1}",
+        "type": "number"
+      },
+      "spacing-md": {
+        "value": "{spacing.3}",
+        "type": "number"
+      },
+      "spacing-lg": {
+        "value": "{spacing.4}",
+        "type": "number"
+      },
+      "spacing-2xl": {
+        "value": "{spacing.13}",
+        "type": "number"
+      },
+      "spacing-xl": {
+        "value": "{spacing.6}",
+        "type": "number"
+      },
+      "spacing-none": {
+        "value": 0,
+        "type": "number"
+      }
+    },
+    "radius": {
+      "radius-rounded": {
+        "value": "{radius.md}",
+        "type": "number"
+      },
+      "radius-full": {
+        "value": "{radius.3xl}",
+        "type": "number"
+      },
+      "radius-minimal": {
+        "value": "{radius.sm}",
+        "type": "number"
+      }
+    }
+  },
+  "Product interactions — Completed/Default": {
+    "Is available": {
+      "value": "true",
+      "type": "boolean"
+    },
+    "Has cart": {
+      "value": "false",
+      "type": "boolean"
+    },
+    "Cart button text": {
+      "value": "Available",
+      "type": "text"
+    },
+    "Amount available": {
+      "value": 4,
+      "type": "number"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Primitives — Completed/Modern Theme",
+      "Primitives — Completed/Brutal Theme",
+      "Tokens — Completed/Light",
+      "Tokens — Completed/Dark",
+      "Product interactions — Completed/Default"
+    ]
+  }
+}
